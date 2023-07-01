@@ -1,3 +1,3 @@
-module project01
+module gobase
 
 go 1.20
